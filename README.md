@@ -1,4 +1,4 @@
-# SENG-LIVE-000000 Phase 1
+# SENG-LIVE-022023 Phase 1
 
 ## Phase Objectives
 * Understand the fundamentals of JavaScript as a language, including functions and scope
